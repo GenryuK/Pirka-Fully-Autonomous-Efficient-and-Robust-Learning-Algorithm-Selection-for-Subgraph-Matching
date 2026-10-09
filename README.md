@@ -1,2 +1,2 @@
-# Pirka-Fully-Autonomous-Efficient-and-Robust-Learning-Algorithm-Selection-for-Subgraph-Matching
+# Pirka-Adaptive-Selection-of-Primitives-for-Efficient-and-Robust-Subgraph-Matching
 The source code for Pirka
